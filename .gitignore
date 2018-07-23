@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# misc
+#/src/config.js
+.DS_Store
